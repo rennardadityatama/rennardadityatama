@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Rennard Adityatama
 
-<!--
-**rennardadityatama/rennardadityatama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Software Engineering | 🚀 Learning Web Development
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Currently learning **PHP, MySQL, JavaScript, Golang, PostgreSQL**
+- 🔭 Interested in **Web Development & Software Engineering**
+- 🎯 Goal: Become a professional software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Language:** PHP, JavaScript, HTML, CSS, Go
+- **Framework:** Bootstrap
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+## 📫 Connect with Me
+- Instagram: @adtytmnard
+- Email: rennardadit@gmail.com
