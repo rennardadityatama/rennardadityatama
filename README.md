@@ -1,18 +1,22 @@
-# Hi there 👋, I'm Rennard Adityatama
+# Hi, I'm Rennard Adityatama 👋
 
-🎓 Student | 💻 Software Engineering | 🚀 Learning Web Development
-
-## 👨‍💻 About Me
-- 🌱 Currently learning **PHP, MySQL, JavaScript, Golang, PostgreSQL**
-- 🔭 Interested in **Web Development & Software Engineering**
-- 🎯 Goal: Become a professional software engineer
+## 🚀 About Me
+- 💻 Interested in Web Development & Cloud Computing
+- 🌱 Currently learning Laravel & React
+- ☁️ Exploring AWS and Linux
+- 🎯 Focused on improving my coding skills
 
 ## 🛠️ Tech Stack
-- **Language:** PHP, JavaScript, HTML, CSS, Go
-- **Framework:** Bootstrap
-- **Database:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, VS Code
+- PHP
+- Laravel
+- React
+- MySQL
+- Linux
+- AWS
 
-## 📫 Connect with Me
+## 📫 Connect With Me
+- GitHub: https://github.com/rennardadityatama
 - Instagram: @adtytmnard
-- Email: rennardadit@gmail.com
+
+---
+⭐ Keep learning and building.
