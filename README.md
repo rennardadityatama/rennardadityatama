@@ -1,22 +1,13 @@
-# Hi, I'm Rennard Adityatama 👋
+<div align="center">
 
-## 🚀 About Me
-- 💻 Interested in Web Development & Cloud Computing
-- 🌱 Currently learning Laravel & React
-- ☁️ Exploring AWS and Linux
-- 🎯 Focused on improving my coding skills
+  # Hi, I'm Rennard Adityatama
 
-## 🛠️ Tech Stack
-- PHP
-- Laravel
-- React
-- MySQL
-- Linux
-- AWS
+Student | Learning Backend Development & Cloud Computing
 
-## 📫 Connect With Me
-- GitHub: https://github.com/rennardadityatama
-- Instagram: @adtytmnard
+</div>
 
----
-⭐ Keep learning and building.
+### Languages & Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,react,golang,mysql,postgresql,linux,aws,git" />
+</p>
